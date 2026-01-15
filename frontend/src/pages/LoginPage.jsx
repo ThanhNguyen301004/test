@@ -2,7 +2,6 @@ import { useState } from 'react'
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { Mail, Lock, ArrowRight, Loader, User, UserPlus } from 'lucide-react'
-import { set } from 'mongoose'
 import { useUserStore } from '../stores/useUserStore'
 
 
